@@ -1,0 +1,4 @@
+eclipseWorkspace
+================
+
+All java projects
